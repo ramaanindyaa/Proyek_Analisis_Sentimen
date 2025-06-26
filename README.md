@@ -120,7 +120,7 @@ print(result['predicted_sentiment'])  # Output: 'positif'
 - Semua cell notebook harus dijalankan untuk hasil optimal
 
 ## 👥 Kontributor
-- **Nama**: [Nama Anda]
+- **Nama**: Rama Anindya
 - **Tanggal**: Juni 2025
 - **Versi**: 1.0
 
